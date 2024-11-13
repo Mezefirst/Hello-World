@@ -1,3 +1,2 @@
-# Hello-World
-My first repository
-I am student
+I am a student. 
+My first repository for practicing GitHub.
