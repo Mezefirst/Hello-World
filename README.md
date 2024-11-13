@@ -1,3 +1,2 @@
 I am a student. 
-My first repository.
-For practicing GitHub.
+My first repository for practicing GitHub.
